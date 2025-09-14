@@ -38,7 +38,3 @@ src="https://img.shields.io/github/followers/CARAZON22?logo=github&style=for-the
 
 </ul>
 
-
-
-
-gs
