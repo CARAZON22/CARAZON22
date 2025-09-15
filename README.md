@@ -1,9 +1,7 @@
-<div id="header" align="center"></div>
-<img src="./assets/vaniaLox.gif" width="200" height="200" align="center">
-</div>
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZldmJwdzY1cnQyNGE2eWVyZmViNHd0N3M4Zm9jMGtuYTczbmVrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7L4FScD1s8rt2jbuLe/giphy.gif" width="100"/>
 </div>
 
 ![Header](./assets/banner.png)
