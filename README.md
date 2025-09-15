@@ -22,8 +22,6 @@ about me ....
 
 <a href="http://www.github.com/CARAZON22"><img src="https://github-readme-stats.vercel.app/api?username=CARAZON22&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="CARAZON22's GitHub stats" /></a>
 
-<ul style="list-style-type: none; margin: 0;">
-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/CARAZON22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" width="150"/></a></li>
 
 </ul>
