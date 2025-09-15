@@ -1,4 +1,4 @@
-<div id="header-e" align="center"></div>
+<div id="header" align="center"></div>
 <img src="./assets/vaniaLox.gif" width="200" height="200" align="center">
 </div>
 
