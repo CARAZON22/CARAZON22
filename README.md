@@ -1,4 +1,6 @@
+<div id="header-e" align="center"></div>
 <img src="./assets/vaniaLox.gif" width="200" height="200" align="center">
+</div>
 
 ![Header](./assets/banner.png)
 
