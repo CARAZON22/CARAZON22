@@ -2,6 +2,10 @@
 <img src="./assets/vaniaLox.gif" width="200" height="200" align="center">
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ![Header](./assets/banner.png)
 
 
