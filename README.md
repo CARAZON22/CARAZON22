@@ -1,4 +1,4 @@
-<img src="./assets/vaniaLox.gif" width="200" height="200" style="margin:0 auto;">
+<img src="./assets/vaniaLox.gif" width="200" height="200" align="center">
 
 ![Header](./assets/banner.png)
 
