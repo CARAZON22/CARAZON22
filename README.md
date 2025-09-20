@@ -1,8 +1,8 @@
-![Header](Group 34.png)
+![Header](./assets/Group%2034.png)
 
-#### Slils
+### Slils
 
-### languages :
+#### languages :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -11,13 +11,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-### Tools :
+#### Tools :
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?logo=google-chrome&logoColor=white) 
-### Additional :
+#### Additional :
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-00AEEF)
