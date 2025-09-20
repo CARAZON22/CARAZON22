@@ -29,7 +29,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CARAZON22)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CARAZON22&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CARAZON22&show_icons=true) 
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=CARAZON22) 
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/brusvana35c"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" width="150"/></a></li>
 
