@@ -39,6 +39,9 @@
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/brusvana35c"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" width="150"/></a></li>
 
+![Stats](https://github-readme-stats.vercel.app/api?username=CARAZON22=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CARAZON22=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=CARAZON22=jolly&date_format=j%20M%5B%20Y%5D)
 </ul>
 
 <p align="center">
