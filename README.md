@@ -1,4 +1,9 @@
-![Header](./assets/withoutbg.png)
+<div align="center">
+  <img src="./assets/withoutbg.png" alt="top-img" style="margin-rigth: 20px;" align="left">
+  <img src="./assets/mylogo.gif" alt="logo=spin" >
+</div>
+
+<!-- ![Header](./assets/withoutbg.png) -->
 
 #### Skils
 
