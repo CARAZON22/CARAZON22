@@ -23,7 +23,7 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-00AEEF)
 ![SEO](https://img.shields.io/badge/SEO-FF5733)
 
-![Header](./assets/findMe.png)
+![Header](./assets/witoutback.png)
 
 ### My statistics
 
